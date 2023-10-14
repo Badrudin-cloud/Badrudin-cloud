@@ -1,18 +1,18 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Badrudin Mohamed Ali</h1>
-<p align="center">A passionate developer, open-source enthusiast, and lifelong learner.</p>
+<p align="center">a passionate software developer with a deep love for turning ideas into practical, efficient, and user-friendly solutions. With a strong foundation in various programming languages and technologies, I thrive on tackling complex problems and delivering high-quality software. Whether it's web development, mobile apps, or back-end systems, I enjoy the creative process of coding and the satisfaction of building innovative solutions that make a difference.</p>
 
 <!-- Social Icons -->
 <p align="center">
    <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-YourUsername-blue" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Badrudin-blue" alt="GitHub">
   </a>
   <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/Twitter-YourHandle-blue" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-Badrudin-blue" alt="Twitter">
   </a>
   <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-YourName-blue" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Badrudin-blue" alt="LinkedIn">
   </a>
 </p>
 
