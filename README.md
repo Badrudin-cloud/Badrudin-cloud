@@ -1,7 +1,3 @@
-<!-- Header Section -->
-<p align="center">
-  <img src="https://github.com/Badrudin-cloud.png" alt="Badrudin Mohamed Ali" width="200">
-</p>
 
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Badrudin Mohamed Ali</h1>
@@ -9,8 +5,8 @@
 
 <!-- Social Icons -->
 <p align="center">
-  <a href="https://github.com/Badrudin-cloud">
-    <img src="https://img.shields.io/badge/GitHub-Badrudin-cloud-blue" alt="GitHub">
+   <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-YourUsername-blue" alt="GitHub">
   </a>
   <a href="https://twitter.com/your-twitter-handle">
     <img src="https://img.shields.io/badge/Twitter-YourHandle-blue" alt="Twitter">
@@ -24,20 +20,6 @@
 <h2 align="center">Skills</h2>
 <p align="center">JavaScript | React | Node.js | Python | HTML/CSS | Git</p>
 
-<!-- Projects Section -->
-<h2 align="center">Featured Projects</h2>
-
-<!-- You can create a list of your featured projects like this -->
-<ul>
-  <li>
-    <a href="https://github.com/Badrudin-cloud/project-1">Project 1</a>
-    - A short description of Project 1.
-  </li>
-  <li>
-    <a href="https://github.com/Badrudin-cloud/project-2">Project 2</a>
-    - A short description of Project 2.
-  </li>
-</ul>
 
 <!-- GitHub Stats -->
 <h2 align="center">GitHub Stats</h2>
