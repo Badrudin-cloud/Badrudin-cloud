@@ -18,7 +18,7 @@
 
 <!-- Skills Section -->
 <h2 align="center">Skills</h2>
-<p align="center">Here are some of the programming languages and frameworks I work with:</p>
+<p align="center">Here are some of the tools I work with:</p>
 
 <!-- Programming Languages Section -->
 <h3 align="center">Programming Languages</h3>
