@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="[https://your-image-url.com/your-avatar.png](https://avatars.githubusercontent.com/u/70440839?v=4)" alt="Badrudin Mohamed Ali" width="200">
+  <img src="[[https://your-image-url.com/your-avatar.png](https://avatars.githubusercontent.com/u/70440839?v=4)](https://avatars.githubusercontent.com/u/70440839?v=4)" alt="Badrudin Mohamed Ali" width="200">
 </p>
 
 <!-- Introduction -->
